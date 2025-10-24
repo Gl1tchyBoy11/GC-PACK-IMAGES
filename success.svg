@@ -1,0 +1,24 @@
+<svg width="256" height="235" viewBox="0 0 256 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="74.3635" y="67" width="109" height="109" rx="54.5" fill="url(#paint0_radial_136_404)"/>
+<path d="M149.197 108.792L135.496 125.233C130.066 131.749 127.352 135.006 123.78 135.006C120.209 135.006 117.494 131.749 112.065 125.233L108.53 120.992" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<circle cx="131.364" cy="4" r="4" fill="#4F4F6C"/>
+<circle cx="102.364" cy="45" r="4" fill="#4F4F6C"/>
+<circle cx="167.364" cy="202" r="4" fill="#4F4F6C"/>
+<circle cx="50.3635" cy="133" r="4" fill="#4F4F6C"/>
+<circle cx="212.364" cy="51" r="4" fill="#4F4F6C"/>
+<circle cx="49.3635" cy="47" r="3" fill="#30303A"/>
+<circle cx="223.364" cy="179" r="3" fill="#30303A"/>
+<circle cx="116.364" cy="232" r="3" fill="#30303A"/>
+<circle cx="16.3635" cy="175" r="3" fill="#30303A"/>
+<circle cx="201.364" cy="112" r="3" fill="#30303A"/>
+<rect x="175.707" y="21" width="4" height="24" rx="2" transform="rotate(42.92 175.707 21)" fill="#2F426F"/>
+<rect x="239.707" y="117" width="4" height="24" rx="2" transform="rotate(42.92 239.707 117)" fill="#2F426F"/>
+<rect x="68.707" y="188" width="4" height="24" rx="2" transform="rotate(42.92 68.707 188)" fill="#2F426F"/>
+<rect x="31.707" y="81" width="4" height="24" rx="2" transform="rotate(42.92 31.707 81)" fill="#2F426F"/>
+<defs>
+<radialGradient id="paint0_radial_136_404" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(128.864 121.5) scale(54.5)">
+<stop stop-color="#285AD4"/>
+<stop offset="1" stop-color="#193780"/>
+</radialGradient>
+</defs>
+</svg>
